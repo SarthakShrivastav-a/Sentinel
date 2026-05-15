@@ -1,0 +1,16 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SarthakShrivastav-a/tempfe.git
+	branch = main
+[submodule "backend-springboot"]
+	path = backend-springboot
+	url = https://github.com/SarthakShrivastav-a/Uptime-Monitoring.git
+	branch = Hearbeat
+[submodule "monitor-worker-go"]
+	path = monitor-worker-go
+	url = https://github.com/SarthakShrivastav-a/UptimeServer.git
+	branch = Refactored
+[submodule "ai-service"]
+	path = ai-service
+	url = https://github.com/SarthakShrivastav-a/Sentinel-AI.git
+	branch = main
